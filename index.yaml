@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  fastapi:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-10-19T19:17:15.198586871Z"
+    description: A Helm chart for Kubernetes
+    digest: 795c7d650d70c5cb39b3e77534f3f17efde7d3d4ec2a88ffe8bd554b3a0d4453
+    name: fastapi
+    type: application
+    urls:
+    - git@github.com:alanliyue/chart-k8s.git/fastapi-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-10-19T19:17:15.198057025Z"
